@@ -1,0 +1,93 @@
+.hi0 {
+  position: relative;
+  top: 3vw;
+  left: 25vw;
+}
+.hi1 {
+  position: relative;
+  top: 0.71vw;
+  left: 30vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: black;
+}
+
+.hi2 {
+  position: relative;
+  top: 0.71vw;
+  left: 34vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: black;
+}
+
+.hi3 {
+  position: relative;
+  top: 0.71vw;
+  left: 38vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: black;
+}
+
+.hi4 {
+  position: relative;
+  top: 0.71vw;
+  left: 42vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: black;
+}
+
+.hi5 {
+  position: relative;
+  top: 0.71vw;
+  left: 46vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: black;
+}
+
+.hi6 {
+  position: relative;
+  width: 5.21vw;
+  height: 5.21vw;
+  top: 7vw;
+  left: 1vw;
+  align-self: center;
+}
+.hi7 {
+  position: relative;
+  width: 5.21vw;
+  height: 5.21vw;
+  top: 9vw;
+  left: 1vw
+}
+
+.hi8 {
+  position: relative;
+  width: 5.21vw;
+  height: 5.21vw;
+  top: 12vw;
+  left: 1vw
+}
+
+.hi9 {
+  position: relative;
+  width: 5.21vw;
+  height: 5.21vw;
+  top: 16vw;
+  left: 1vw
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
