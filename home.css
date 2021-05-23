@@ -54,17 +54,24 @@
 }
 
 .hi6 {
-   position: relative;
-   align-self: center;
-   top:80px;
+  position: relative;
+  top: 8vw;
+  left: 25vw;
 }
 
 .hi7 {
-   position: relative;
-   align-self: center;
-   top:200px;
-}
+  position: relative;
+  top: 8vw;
+  left: 29vw;
 
+}
+ 
+.hi8 {
+  position: relative;
+  top: 12vw;
+  left: 0vw;
+
+}
 .center {
   display: block;
   margin-left: auto;
