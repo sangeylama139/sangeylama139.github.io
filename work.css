@@ -60,7 +60,7 @@
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
-  color: #662D91;
+  color: #F26522;
 }
 
 .hi7 {
@@ -70,7 +70,7 @@
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
-  color: #662D91;
+  color: #F26522;
 }
 
 .hi8 {
@@ -80,7 +80,7 @@
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
-  color: #662D91;
+  color: #F26522;
 }
 
 .hi9 {
@@ -90,7 +90,37 @@
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
-  color: #662D91;
+  color: #F26522;
+}
+
+.hi10 {
+  position: absolute;
+  top: 38vw;
+  left:24vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: #F26522;
+}
+
+.hi11 {
+  position: absolute;
+  top: 38vw;
+  left:57vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: #F26522;
+}
+
+.hi12 {
+  position: absolute;
+  top: 50vw;
+  left:24vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: #F26522;
 }
 
 .center {
