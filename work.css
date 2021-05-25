@@ -123,6 +123,16 @@
   color: #F26522;
 }
 
+.hi13 {
+  position: absolute;
+  top: 50vw;
+  left:57vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: #F26522;
+}
+
 .center {
   display: block;
   margin-left: auto;
