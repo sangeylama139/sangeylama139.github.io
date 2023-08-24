@@ -1,56 +1,85 @@
-.hi0 {
-  position: relative;
-  top: 3vw;
-  left: 25vw;
-}
 .hi1 {
   position: relative;
-  top: 0.71vw;
-  left: 30vw;
+  top: 3.71vw;
+  left: 24.5vw;
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
   color: black;
+  text-align: center;
+  padding: 5px;
+  background-color:;
+}
+.hi1:hover {
+  background-color: #F26522;
+  color: white;
 }
 
 .hi2 {
   position: relative;
-  top: 0.71vw;
+  top: 3.71vw;
+  left: 29.4vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: black;
+  padding: 5px;
+  background-color:;
+}
+
+.hi2:hover {
+  background-color: #F26522;
+  color: white;
+}
+
+.hi3 {
+  position: relative;
+  top: 3.71vw;
   left: 34vw;
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
   color: black;
+  padding: 5px;
+  background-color:;
 }
 
-.hi3 {
-  position: relative;
-  top: 0.71vw;
-  left: 38vw;
-  text-decoration: none;
-  font-family: Arial;
-  font-size: 1.5vw;
-  color: black;
+.hi3:hover {
+  background-color: #F26522;
+  color: white;
 }
 
 .hi4 {
   position: relative;
-  top: 0.71vw;
-  left: 42vw;
+  top: 3.71vw;
+  left: 39vw;
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
   color: black;
+  padding: 5px;
+  background-color:;
+}
+
+.hi4:hover {
+  background-color: #F26522;
+  color: white;
 }
 
 .hi5 {
   position: relative;
-  top: 0.71vw;
-  left: 46vw;
+  top: 3.71vw;
+  left: 43vw;
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
   color: black;
+  padding: 5px;
+  background-color:;
+}
+.hi5:hover {
+  background-color: #F26522;
+  color: white;
 }
 
 .hi6 {
@@ -61,6 +90,12 @@
   font-family: Arial;
   font-size: 1.5vw;
   color: #F26522;
+  padding: 10px;
+}
+
+.hi6:hover {
+  background-color: yellowgreen;
+  color: black;
 }
 
 .hi7 {
@@ -71,71 +106,121 @@
   font-family: Arial;
   font-size: 1.5vw;
   color: #F26522;
+  padding: 10px;
+}
+
+.hi7:hover {
+  background-color: yellowgreen;
+  color: black;
 }
 
 .hi8 {
   position: absolute;
-  top: 25vw;
+  top: 21vw;
   left: 24vw;
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
   color: #F26522;
+  padding: 10px;
+}
+
+.hi8:hover {
+  background-color: yellowgreen;
+  color: black;
 }
 
 .hi9 {
   position: absolute;
-  top: 25vw;
+  top: 21vw;
   left:57vw;
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
   color: #F26522;
+  padding: 10px;
+}
+
+.hi9:hover {
+  background-color: yellowgreen;
+  color: black;
 }
 
 .hi10 {
   position: absolute;
-  top: 38vw;
+  top: 33vw;
   left:24vw;
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
   color: #F26522;
+  padding: 10px;
+}
+
+.hi10:hover {
+  background-color: yellowgreen;
+  color: black;
 }
 
 .hi11 {
   position: absolute;
-  top: 38vw;
+  top: 33vw;
   left:57vw;
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
   color: #F26522;
+  padding: 10px;
+}
+
+.hi11:hover {
+  background-color: yellowgreen;
+  color: black;
 }
 
 .hi12 {
   position: absolute;
-  top: 50vw;
+  top: 42vw;
   left:24vw;
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
   color: #F26522;
+  padding: 10px;
+}
+
+.hi12:hover {
+  background-color: yellowgreen;
+  color: black;
 }
 
 .hi13 {
   position: absolute;
-  top: 50vw;
+  top: 42vw;
   left:57vw;
   text-decoration: none;
   font-family: Arial;
   font-size: 1.5vw;
   color: #F26522;
+  padding: 10px;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  }
+.hi13:hover {
+  background-color: yellowgreen;
+  color: black;
+}
+.hi14 {
+  position: absolute;
+  top: 55vw;
+  left:24vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: #F26522;
+  padding: 10px;
+}
 
+.hi14:hover {
+  background-color: yellowgreen;
+  color: black;
+}

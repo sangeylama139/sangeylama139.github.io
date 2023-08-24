@@ -1,49 +1,111 @@
 .hi1 {
-	position:relative;
-	text-align:center;
-	top:1.9vw;
-	font-size: .5vw;
-	font-family: Arial;
-	text-align: center;
+  position: relative;
+  top: 3.71vw;
+  left: 24.5vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: black;
+  text-align: center;
+  padding: 5px;
+  background-color:;
+}
+.hi1:hover {
+  background-color: #F26522;
+  color: white;
 }
 
 .hi2 {
-	position:relative;
-	font-size: 1vw;
-	top:2vw;
-	font-family: Arial;
-	text-align: center;
+  position: relative;
+  top: 3.71vw;
+  left: 29.4vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: black;
+  padding: 5px;
+  background-color:;
 }
+
+.hi2:hover {
+  background-color: #F26522;
+  color: white;
+}
+
 .hi3 {
-	position:relative;
-	text-align: center;
-	top: 2vw;
-	font-size:2vw;
-	font: Arial;
-	bottom:2vw;
+  position: relative;
+  top: 3.71vw;
+  left: 34vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: black;
+  padding: 5px;
+  background-color:;
 }
 
+.hi3:hover {
+  background-color: #F26522;
+  color: white;
+}
 
-.hi5{
-	position:relative;
-	text-align: center;
-	top:1vw;
-	font-size:1.25vw;
-	font: Arial;
-	left: 4vw;
+.hi4 {
+  position: relative;
+  top: 3.71vw;
+  left: 39vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: black;
+  padding: 5px;
+  background-color:;
+}
+
+.hi4:hover {
+  background-color: #F26522;
+  color: white;
+}
+
+.hi5 {
+  position: relative;
+  top: 3.71vw;
+  left: 43vw;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 1.5vw;
+  color: black;
+   padding: 5px;
+  background-color:;
+}
+.hi5:hover {
+  background-color: #F26522;
+  color: white;
 }
 
 .hi6 {
-	position:relative;
-	top:1.797vw;
-	align-self: center;
-	
+  position: relative;
+  top: 8vw;
+  left: 25vw;
 }
 
+.hi7 {
+  position: relative;
+  top: 8vw;
+  left: 29vw;
+
+}
+ 
+.hi8 {
+  position: relative;
+  top: 12vw;
+  left: 0vw;
+
+}
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   
 }
+
 
